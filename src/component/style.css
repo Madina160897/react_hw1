@@ -1,0 +1,22 @@
+.dis{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.user-block{
+    padding: 2%;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid #03a9f4;
+    border-radius: 20px;
+    text-align: center;
+    color: cornflowerblue;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+    border-radius: 50%;
+}
